@@ -19,7 +19,7 @@
 
 ## 🛠 Compétences Techniques
 
-*   **Calcul Scientifique & Données :** Python (`numpy`, `scipy`, `pandas`, `librosa`, `matplotlib`)
+*   **Calcul Scientifique & Données :** Python (`numpy`, `scipy`, `pandas`, `librosa`, `matplotlib`,`manim`)
 *   **Conception & Modélisation 3D :** Autodesk Fusion 360, Blender
 *   **Rédaction Scientifique :** LaTeX (incluant `TikZ` pour les schémas techniques)
 
